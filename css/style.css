@@ -89,7 +89,7 @@ p {
 }
 
 .bg_cont {
-    background-image: url("./img/bgkontakti.jpg");
+    background-image: url("../img/bgkontakti.jpg");
     background-size: cover;
     height: 100vh; 
 }
