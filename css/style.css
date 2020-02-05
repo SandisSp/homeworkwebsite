@@ -68,7 +68,7 @@ p {
 }
 
 .bg {
-    background-image: url("img/back_4.jpg");
+    background-image: url("homeworkwebsite/img/back_4.jpg");
     background-size: cover;
     height: 100vh;
     opacity: 0.9;
@@ -84,7 +84,7 @@ p {
 }
 
 .bg_blogs {
-    background-image: url("img/symbols.jpg");
+    background-image: url("homeworkwebsite/img/symbols.jpg");
     background-repeat:repeat;
 }
 
