@@ -68,7 +68,7 @@ p {
 }
 
 .bg {
-    background-image: url("/homeworkwebsite/img/back_4.jpg");
+    background-image: url("homeworkwebsite/img/back_4.jpg");
     background-size: cover;
     height: 100vh;
     opacity: 0.9;
@@ -89,7 +89,7 @@ p {
 }
 
 .bg_cont {
-    background-image: url("/homeworkwebsite/img/bgkontakti.jpg");
+    background-image: url("homeworkwebsite/img/bgkontakti.jpg");
     background-size: cover;
     height: 100vh; 
 }
